@@ -1,0 +1,1 @@
+export const API_VIDEO_LIST='https://private-c31a5-task27.apiary-mock.com/videos';
